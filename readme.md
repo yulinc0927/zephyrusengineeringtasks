@@ -11,9 +11,6 @@ This repository contains solutions for the following three tasks. Each task is d
 3. [Approach](#approach)
 4. [Project Setup](#project-setup)
 5. [Running the Project](#running-the-project)
-6. [Features](#features)
-7. [Further Improvements](#further-improvements)
-
 ---
 
 ## **Tasks Overview**
